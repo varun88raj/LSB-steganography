@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646656500 source:d:\cb\new folder\steganography\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
